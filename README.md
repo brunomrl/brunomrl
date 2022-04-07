@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Atualmente estou cursando Análise e Desenvolvimento de Sistemas na FATEC, me identifiquei com a área de desenvolvimento web e estou buscando conhecimento através de cursos e projetos práticos.
+Sou formado em Análise e Desenvolvimento de Sistemas na FATEC, me identifiquei com a área de desenvolvimento web e estou buscando conhecimento através de cursos e projetos práticos.
 
 - :books: estudando atualmente sobre:
  HTML | CSS | PHP | Bootstrap | Banco de Dados
