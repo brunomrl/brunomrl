@@ -2,8 +2,12 @@
 
 Sou formado em Análise e Desenvolvimento de Sistemas na FATEC, me identifiquei com a área de desenvolvimento web e estou buscando conhecimento através de cursos e projetos práticos.
 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunomrl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomrl&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 - :books: estudando atualmente sobre:
- HTML | CSS | PHP | Bootstrap | Banco de Dados
+ HTML | CSS | PHP | Bootstrap | Javascript | Banco de Dados
  
 - :pushpin: Taubaté-SP   
 
