@@ -1,4 +1,4 @@
-### Olá 👋
+### Olá sou o Bruno👋
 
 Sou formado em Análise e Desenvolvimento de Sistemas na FATEC, me identifiquei com a área de desenvolvimento web e estou buscando conhecimento através de cursos e projetos práticos.
 
@@ -7,8 +7,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas na FATEC, me identifiquei 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomrl&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-- :books: estudando atualmente sobre:
- HTML | CSS | PHP | Bootstrap | Javascript | Banco de Dados
+- :books:  HTML | CSS | PHP | Bootstrap | Javascript | Banco de Dados
  
 - :pushpin: Taubaté-SP   
 
